@@ -1,0 +1,13 @@
+name: shorten
+version: 0.1.0-dev
+description: A url shortener in dart with objectory & synth
+dependencies:
+  browser: '>=0.8.5 <0.8.6'
+  mongo_dart: '>=0.1.31 <0.1.32'
+  http_server: '>=0.8.5 <0.8.7'
+  route: '>=0.4.5 <0.4.6'
+  pathos: '>=0.6.3 <0.6.4'
+  bootjack: '>=0.6.1 <0.6.2'
+dev_dependencies:
+  dartmocks: 0.4.1
+  unittest: '>0.7.2'
