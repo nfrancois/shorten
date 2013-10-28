@@ -1,6 +1,3 @@
-// TODO move to lib
-library shortener_server;
-
 import 'dart:io';
 import 'package:shorten/shorten_server.dart';
 
